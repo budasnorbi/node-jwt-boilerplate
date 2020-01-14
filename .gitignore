@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+.dev-env
+.prod-env
+id_rsa.key
+id_rsa.pem
+.vscode
+now.json
